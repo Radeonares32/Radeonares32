@@ -26,5 +26,6 @@ I am currently doing backend development.
 * Bash
 * Flutter
 * Django
+* Vala
 * 💻 HTML ,CSS, JS
 
