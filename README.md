@@ -16,16 +16,19 @@ I am currently doing backend development.
 
 <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="256"/>
 
-## Skills and Experience:
-
-* Node js
-* Dart
-* Vue js
+## Programming Language Skills and Experience:
+* NodeJs
+* ReactJs
+* Typescript
+* Rust
+* Solidity
+* Python
 * C++
 * C
 * Bash
-* Flutter
 * Django
 * Vala
-* 💻 HTML ,CSS, JS
+* HTML
+* CSS
+* Javascript
 
