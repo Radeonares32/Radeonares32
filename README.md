@@ -10,9 +10,7 @@ I am currently doing backend development.
  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Radeonares32)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radeonares32)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Radeonares32&show_icons=true)  
+ 
 
 <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="256"/>
 
