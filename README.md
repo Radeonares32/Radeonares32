@@ -26,7 +26,7 @@ I'm Buğra from Turkey and I'm currently trying to improve myself in Cyber ​�
 
 
 ### Backend
-![AssemblyScript Badge](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff&style=plastic&logoWidth=40)  
+![AssemblyScript Badge](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff&style=plastic&logoWidth=100)  
 <div align="center">  
 
 
