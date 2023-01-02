@@ -84,12 +84,12 @@ I'm Buğra from Turkey and I'm currently trying to improve myself in Cyber ​�
 ### Cyber Security
 
 <div align="center">  
-<img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=fff&style=plastic" alt="HackerOne Badge"height=24>
+<img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=fff&style=plastic" alt="HackerOne Badge" height=24>
 <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="HackerOne Badge" height=26>
 <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackerOne Badge" height=26>
 <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="HackerOne Badge" height=26>
 <img src="https://img.shields.io/badge/-Tor%20Browser-%237D4698?style=for-the-badge&logo=torbrowser&logoColor=white" alt="HackerOne Badge" height=26>
-<img src=" 	https://img.shields.io/badge/-Tor%20Project-%237E4798?style=for-the-badge&logo=torproject&logoColor=white" alt="HackerOne Badge" height=26>
+<img src="https://img.shields.io/badge/-Tor%20Project-%237E4798?style=for-the-badge&logo=torproject&logoColor=white" alt="HackerOne Badge" height=26>
 <img src="https://img.shields.io/badge/-VirusTotal-%23394EFF?style=for-the-badge&logo=virustotal&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=whit" alt="HackerOne Badge" height=26>
 <img src="https://img.shields.io/badge/-McAfee-%23C01818?style=for-the-badge&logo=mcafee&logoColor=white" alt="HackerOne Badge" height=26>
