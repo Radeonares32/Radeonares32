@@ -101,11 +101,7 @@ I'm Buğra from Turkey and I'm currently trying to improve myself in Cyber ​�
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Radeonares32&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
   
-
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lxzcfgxkt5otmckdmpk45um3ni&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=e01b24&bar_color_cover=false" /></div>  
@@ -118,6 +114,3 @@ I'm Buğra from Turkey and I'm currently trying to improve myself in Cyber ​�
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
