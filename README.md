@@ -17,7 +17,7 @@ I'm Buğra from Turkey and I'm currently trying to improve myself in Cyber ​�
 
 ### Frontend  
 <div align="center">
- <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".NET Badge">
+
 
 </div>
 
@@ -27,7 +27,7 @@ I'm Buğra from Turkey and I'm currently trying to improve myself in Cyber ​�
 
 ### Backend  
 <div align="center">  
-<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge" alt="Go Badge">
+<img src="https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff&style=flat" alt="AssemblyScript Badge">
 
 </div>
 
