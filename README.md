@@ -92,6 +92,8 @@ I'm Buğra from Turkey and I'm currently trying to improve myself in Cyber ​�
 <img src="https://img.shields.io/badge/-Tor%20Project-%237E4798?style=for-the-badge&logo=torproject&logoColor=white" alt="HackerOne Badge" height=26>
 <img src="https://img.shields.io/badge/-VirusTotal-%23394EFF?style=for-the-badge&logo=virustotal&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=whit" alt="HackerOne Badge" height=26>
+<img src="https://img.shields.io/badge/-OSCP-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=whit" alt="HackerOne Badge" height=26>
+<img src="https://img.shields.io/badge/-CEH-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=whit" alt="HackerOne Badge" height=26>
 <img src="https://img.shields.io/badge/-McAfee-%23C01818?style=for-the-badge&logo=mcafee&logoColor=white" alt="HackerOne Badge" height=26>
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=plastic" alt="Arch Linux Badge" height=24>
 <img src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=fff&style=plastic" alt="CentOS Badge" height=24>
