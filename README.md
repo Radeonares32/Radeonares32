@@ -146,7 +146,7 @@ I'm Buğra from Turkey and I'm currently trying to improve myself in Cyber ​�
 
 
 ## Github Stats  
-![Radeonares32 GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Radeonares32&show_icons=true&theme=radical)  
+![Radeonares32 GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Radeonares32&count_private=true&show_icons=true&theme=radical)  
 
 <br/>  
   
