@@ -9,7 +9,7 @@ I'm Buğra from Turkey and I'm currently trying to improve myself in Cyber ​�
 
 <br/>  
 
-
+ 
 ## My Skill Set  
 <table><tr><td valign="top" width="10%">
 
