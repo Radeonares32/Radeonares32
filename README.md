@@ -136,22 +136,12 @@ I'm Buğra from Turkey and I'm currently trying to improve myself in Cyber ​�
 
 </td><td valign="top" width="20%">
 
-
-
-
-
-  
-
 <br/>  
-  
-  
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lxzcfgxkt5otmckdmpk45um3ni&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=e01b24&bar_color_cover=false" /></div>  
 
 <br/>  
-
-  
 
 <br/>  
 
