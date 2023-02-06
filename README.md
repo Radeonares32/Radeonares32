@@ -80,7 +80,7 @@ I'm Buğra from Turkey and I'm currently trying to improve myself in Cyber ​�
 
 </td><td valign="top" width="20%">
 
-
+ 
 ### Cyber Security
 
 <div align="center">  
