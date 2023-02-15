@@ -71,6 +71,7 @@ I'm Buğra from Turkey and I'm currently trying to improve myself in Cyber ​�
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=plastic" alt="Yarn Badge"height=24>
 <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=plastic" alt="JSON Badge"height=24>
 <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=plastic" alt="Mocha Badge"height=24>
+  <img src="https://img.shields.io/badge/Jest-8D6748?logo=jest&logoColor=fff&style=plastic" alt="Jest Badge"height=24>
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic" alt="GNU Bash Badge" height=24>
 <img src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=fff&style=plastic" alt="Qiskit Badge"  height=24>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=plastic" alt="PowerShell Badge" height=24>
