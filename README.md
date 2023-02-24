@@ -28,7 +28,7 @@ I'm Buğra from Turkey and I'm currently trying to improve myself in Cyber ​�
 </div>
 
 </td><td valign="top" width="20%">
-
+ 
 
 
 
