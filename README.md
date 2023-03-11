@@ -4,7 +4,7 @@
     
    
 ### <div align="center">
-I'm Buğra from Turkey and I'm currently trying to improve myself in Cyber ​​Security, System and Network engineering. I am currently doing backend development.</div>  
+I'm Radeonares32 from Turkey and I'm currently trying to improve myself in Cyber ​​Security, System and Network engineering. I am currently doing backend development.</div>  
    
 
 <br/>  
