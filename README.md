@@ -26,7 +26,7 @@ I'm Rade from Turkey and I'm currently trying to improve myself in Cyber ​​S
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=plastic" alt="TypeScript Badge" height=24>
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=plastic" alt="Redux Badge"  height=24>
 </div>
-
+ 
 </td><td valign="top" width="20%">
  
 
