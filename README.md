@@ -50,7 +50,7 @@ I'm Radeonares32 from Turkey and I'm currently trying to improve myself in Cyber
 <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=plastic" alt="GraphQL Badge" height=24>
 <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=fff&style=plastic" alt="Neo4j Badge"height=24>
 <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=plastic" alt="Go Badge" height=24>
-<img src="https://img.shields.io/badge/Perl-00ADD8?logo=go&logoColor=fff&style=plastic" alt="Go Badge" height=24>
+<img src="https://img.shields.io/badge/Perl-00ADD8?logo=perl&logoColor=fff&style=plastic" alt="Go Badge" height=24>
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff&style=plastic" alt="Sequelize Badge" height=24>
 <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=plastic" alt="Prisma Badge" height=24>
 <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=plastic" alt="Express Badge"height=24>
