@@ -174,7 +174,7 @@ I'm Radeonares32 from Turkey and I'm currently trying to improve myself in Cyber
 
 
 <br/>  
-  <h3>🏆 GitHub Profile Trophy:</h3>
+  <h3>🏆 GitHub Profile Trophy</h3>
  <div>
   <img width=810 src="https://github-profile-trophy.vercel.app/?username=radeonares32&no-frame=true&no-bg=true&column=-1"/>
 </div>
