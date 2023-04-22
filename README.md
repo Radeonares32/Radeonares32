@@ -3,19 +3,19 @@
 </div>     
        
     
-### <div align="center">
+<div align="center">
 I'm Radeonares32 from Turkey and I'm currently trying to improve myself in Cyber ​​Security, System and Network engineering. I am currently doing backend development.</div>  
    
 
 <br/>   
  
  
-## My Skill Set  
+ <h1>My Skill Set</h1>  
 <table><tr><td valign="top" width="10%">
 
 
 
-### Frontend  
+<h3>Front End</h3>
 <div align="center">
 
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic" alt="React Badge"  height=24 >
@@ -32,7 +32,7 @@ I'm Radeonares32 from Turkey and I'm currently trying to improve myself in Cyber
 
 
 
-### Backend
+<h3>Back End</h3>
 
 <div align="center">  
 <img src="https://img.shields.io/badge/Assembly-007AAC?logo=assemblyscript&logoColor=fff&style=plastic" alt="Assembly Badge" height=24 >
@@ -83,7 +83,7 @@ I'm Radeonares32 from Turkey and I'm currently trying to improve myself in Cyber
 </td><td valign="top" width="20%">
 
  
-### Cyber Security
+<h3>Cyber Security</h3>
 
 <div align="center">  
 <img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=fff&style=plastic" alt="HackerOne Badge" height=24>
@@ -113,7 +113,7 @@ I'm Radeonares32 from Turkey and I'm currently trying to improve myself in Cyber
 </td><td valign="top" width="20%">
 
 
-### DevOps  
+<h3>DevOps</h3>  
 <div align="center">  
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic" alt="Docker Badge"height=24>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=plastic" alt="Kubernetes Badge"height=24>
