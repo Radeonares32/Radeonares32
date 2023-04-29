@@ -179,5 +179,10 @@ I'm Radeonares32 from Turkey and I'm currently trying to improve myself in Cyber
   <img width=810 src="https://github-profile-trophy.vercel.app/?username=radeonares32&no-frame=true&no-bg=true&column=-1"/>
 </div>
 <hr>
-<br/>  
+<br/> 
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Radeonares32&theme=dark&hide_border=true&type=png&card_width=1000)](https://git.io/streak-stats)
+
+<hr>
+<br/>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lxzcfgxkt5otmckdmpk45um3ni&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=e01b24&bar_color_cover=false" /></div>
