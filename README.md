@@ -23,11 +23,6 @@ I'm Radeonares32 from Turkey and I'm currently trying to improve myself in Cyber
 <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=plastic" height=24>
 </div>
  <hr>
- 
-
- 
-
-
 
 <h3>🛠️ Back End Skills</h3>
 
@@ -181,5 +176,5 @@ I'm Radeonares32 from Turkey and I'm currently trying to improve myself in Cyber
 <hr>
 <br/> 
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=Radeonares32&theme=dark&hide_border=true&type=png&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Radeonares32&theme=dark&hide_border=true&type=png&card_width=1000)](https://git.io/streak-stats)
 
