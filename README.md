@@ -56,6 +56,7 @@ I'm Radeonares32 from Turkey and I'm currently trying to improve myself in Cyber
 <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=plastic" alt="Mocha Badge"height=24>
 <img src="https://img.shields.io/badge/Jest-8D6748?logo=jest&logoColor=fff&style=plastic" alt="Jest Badge"height=24>
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic" alt="GNU Bash Badge" height=24>
+<img src="https://img.shields.io/badge/Vala-007AAC?logo=vala&logoColor=fff&style=plastic" alt="Vala" height=24>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=plastic" alt="PowerShell Badge" height=24>
 <img src="https://img.shields.io/badge/Java-F80000?logo=oracle&logoColor=fff&style=plastic" alt="Oracle Badge" height=24>
 
