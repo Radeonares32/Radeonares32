@@ -180,5 +180,6 @@ I'm Radeonares32 from Turkey and I'm currently trying to improve myself in Cyber
 <br/> 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Radeonares32&theme=dark&hide_border=true&type=png&card_width=1000)](https://git.io/streak-stats)
-
-
+<div align="center">
+ <a href="https://wakatime.com/@2c54d305-02d7-4777-8bb9-3eb0c58855a2"><img src="https://wakatime.com/badge/user/2c54d305-02d7-4777-8bb9-3eb0c58855a2.svg" alt="Total time coded since Feb 12 2023" /></a>
+</div>
