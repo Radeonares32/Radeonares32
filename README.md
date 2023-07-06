@@ -138,9 +138,6 @@ I'm Radeonares32 from Turkey and I'm currently trying to improve myself in Cyber
     <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic" alt="GNU Bash Badge"height=24>
 </div>
 <hr>
-
-
-
 <h3>🏭 DevOps Skills</h3>  
 <div align="center">  
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic" alt="Docker Badge"height=24>
@@ -169,8 +166,6 @@ I'm Radeonares32 from Turkey and I'm currently trying to improve myself in Cyber
  <img src="https://img.shields.io/badge/Q%23-3776AB?logo=microsoft&logoColor=fff&style=plastic" alt="Q# Badge"height=24>
 </div>
 <hr>
-
-
 <br/>  
   <h3>🏆 GitHub Profile Trophy</h3>
  <div>
