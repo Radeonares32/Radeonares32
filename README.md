@@ -46,6 +46,7 @@ I am Radeonares32 from Turkey and I am currently trying to improve myself in Cyb
 <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=plastic" alt="Ruby Badge"height=24>
 <img src="https://img.shields.io/badge/Php-61DAFB?logo=php&logoColor=000&style=plastic" alt="React Badge" height=24>
 <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=plastic" alt="Django Badge" height=24>
+ <img src="https://img.shields.io/badge/Fastapi-E10098?logo=fastapi&logoColor=fff&style=plastic" alt="Django Badge" height=24>
 <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=plastic" alt="NestJS Badge"height=24>
 <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=plastic" alt="Socket.io Badge"height=24>
 <img src="https://img.shields.io/badge/HTTPie-73DC8C?logo=httpie&logoColor=000&style=plastic" alt="HTTPie Badge"height=24>
