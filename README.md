@@ -16,6 +16,7 @@ I am Radeonares32 from Turkey and I am currently trying to improve myself in Cyb
 
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic" alt="React Badge"  height=24 >
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic" alt="HTML5 Badge" height=24>
+<img src="https://img.shields.io/badge/HTMX-E34F26?logo=htmx&logoColor=fff&style=plastic" alt="HTMX" height=24>
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic" alt="CSS3 Badge"height=24>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic" alt="Bootstrap Badge" height=24>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic" alt="JavaScript Badge" height=24>
